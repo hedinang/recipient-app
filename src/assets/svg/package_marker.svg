@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="83px" viewBox="0 0 64 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="package-location" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M32,0 C49.673112,0 64,14.326888 64,32 C64,40.3235448 60.8220837,47.9048475 55.613386,53.5967733 L32.5,83 L31,83 L8.58480923,53.8113924 C3.25864361,48.0961063 0,40.4286017 0,32 C0,14.326888 14.326888,0 32,0 Z" id="Combined-Shape" fill="#27D07C" />
+        <circle id="Oval" fill="#FFFFFF" cx="32" cy="32" r="24" />
+        <g id="Group-7" transform="translate(21, 19)" fill="#27D07C">
+            <polygon id="Rectangle" points="0.604824352 6.18494229 11.5 -4.08562073e-13 15.645801 2.44961718 4.90385523 8.57266706" />
+            <polygon id="Rectangle-Copy-2" points="6.76081808 9.76737417 17.6401707 3.59167045 22.3373434 6.24519855 11.5 12.5" />
+            <polygon id="Rectangle-Copy-4" points="12.3556402 13.7161303 23 7.67839656 23 19.6299727 12.3556402 26" />
+            <polygon id="Rectangle-Copy-5" points="2.6337326e-12 7.67839656 10.5051535 13.7161303 10.5051535 25.4106319 2.6337326e-12 19.4576511" />
+        </g>
+    </g>
+</svg>

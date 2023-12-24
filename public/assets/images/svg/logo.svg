@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="39px" viewBox="0 0 39 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>403A0ECF-E0C3-4242-AAA6-6C4DB62C7185</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M38.6950574,19.3475287 C38.6950574,30.0328065 30.0328065,38.6950574 19.3475287,38.6950574 C8.66225091,38.6950574 0,30.0328065 0,19.3475287 C0,8.66225091 8.66225091,0 19.3475287,0 C30.0328065,0 38.6950574,8.66225091 38.6950574,19.3475287" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Nav-Bar" transform="translate(-35.000000, -6.000000)">
+            <g id="Group">
+                <g id="Page-1" transform="translate(35.000000, 6.000000)">
+                    <g id="Group-2">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#2A2444" xlink:href="#path-1"></use>
+                        <g mask="url(#mask-2)" stroke="#FFFFFF" stroke-width="2.11956522">
+                            <g transform="translate(-0.215882, 10.362319)">
+                                <path d="M28.0394849,0.13006869 L28.0394849,19.1757948" id="Stroke-3"></path>
+                                <path d="M28.1941425,0.376811594 L28.1941425,19.0289855" id="Line-3"></path>
+                                <path d="M43.0602274,7.96041969 C17.4797639,6.1385945 0.134753321,19.1027189 0.134753321,19.1027189 L19.0345435,0.202928744 L19.0345435,19.0289855" id="Stroke-5"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
